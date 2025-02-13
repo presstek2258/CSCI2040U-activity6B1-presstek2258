@@ -57,7 +57,8 @@ class Game:
 
     def load_first_player(self):
         print("rolling to see who goes first...")
-        # TODO: add a sleep(2 seconds) line here
+        # sleep for 2 seconds to mimic rolling the die
+        sleep(2)
 
         if random.randrange(2) == 0:
             self.turn = 1  # player goes first
