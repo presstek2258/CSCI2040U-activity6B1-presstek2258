@@ -1,6 +1,7 @@
 # this program plays titactoe vs the computer
 
 import random
+from time import sleep
 
 # tictactoe game
 # player 1 is human
