@@ -12,3 +12,5 @@ This code is incomplete for learning purposes.
 ## Project Board
 
 ![project board](/img/board.png)
+And after:
+![project board after](/img/board2.png)
